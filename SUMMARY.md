@@ -1,21 +1,31 @@
 # Table of contents
 
 * [📜 Equilibrium Dex](README.md)
-* [🐋 Trading with Equilibrium Dex](trading-with-equilibrium-dex/README.md)
-  * [🐋 Create a wallet](trading-with-equilibrium-dex/create-a-wallet.md)
-  * [🐋 How to buy EDX?](trading-with-equilibrium-dex/how-to-buy-edx.md)
-* [💎 Token EDX](token-edx/README.md)
-  * [💎 Tokenomics](token-edx/tokenomics.md)
-  * [💎 Fees](token-edx/fees.md)
-* [📊 Products](products/README.md)
-  * [📊 Yeld Farming](products/yeld-farming.md)
-  * [📊 Liquidity pools](products/liquidity-pools.md)
-  * [📊 Staking](products/staking.md)
-  * [📊 Harvest lock](products/harvest-lock.md)
-  * [📊 Lottery](products/lottery.md)
-  * [📊 NFT](products/nft.md)
-  * [📊 WEB 3.0](products/web-3.0.md)
-* [💻 Platforms](platforms.md)
+
+## Overview
+
+* [🐋 Trading with Equilibrium Dex](overview/trading-with-equilibrium-dex.md)
+* [🐋 Create a wallet](overview/create-a-wallet.md)
+* [🐋 How to buy EDX?](overview/how-to-buy-edx.md)
+* [💻 Platforms](overview/platforms.md)
+
+## Feauture
+
+* [📊 Products](feauture/products.md)
+* [📊 Yeld Farming](feauture/yeld-farming.md)
+* [📊 Liquidity pools](feauture/liquidity-pools.md)
+* [📊 Staking](feauture/staking.md)
+* [📊 Lottery](feauture/lottery.md)
+* [📊 NFT](feauture/nft.md)
+* [📊 WEB 3.0](feauture/web-3.0.md)
+* [📊 Harvest lock](feauture/harvest-lock.md)
+
+## Tokenomics
+
+* [💎 Token EDX](tokenomics/token-edx.md)
+* [💎 Tokenomics](tokenomics/tokenomics.md)
+* [💎 Fees](tokenomics/fees.md)
+* [💎 Roadmap](tokenomics/roadmap.md)
 
 ## Safu / KYC & Audit
 
