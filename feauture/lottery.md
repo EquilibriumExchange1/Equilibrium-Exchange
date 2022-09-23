@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Logo EDX Black 1080x1080.png
+cover: ../.gitbook/assets/capa gitbook.png
 coverY: 0
 ---
 
