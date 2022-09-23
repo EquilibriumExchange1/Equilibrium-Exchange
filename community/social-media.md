@@ -5,3 +5,4 @@ coverY: 0
 
 # 🌐 Social Media
 
+{% embed url="https://linktr.ee/equilibrium_exchange" %}
