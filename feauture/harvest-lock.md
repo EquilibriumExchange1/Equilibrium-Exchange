@@ -9,4 +9,4 @@ A farm bounty blocking tool that helps to control the limit and frequency of har
 
 To understand better, we will use the following example:
 
-The harvest of the EDX-BUSD pair is 12 hours. That is, users who have docked at the EDX-BUSD farm can only claim their farm rewards every 12 hours. You can check the lockout period for each farm within the product session itself.
+The harvest of the EHX -BUSD pair is 12 hours. That is, users who have docked at the EHX -BUSD farm can only claim their farm rewards every 12 hours. You can check the lockout period for each farm within the product session itself.
