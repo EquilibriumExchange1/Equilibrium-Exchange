@@ -3,9 +3,9 @@ cover: ../.gitbook/assets/capa gitbook.png
 coverY: 0
 ---
 
-# 🐋 How to buy EHX ?
+# 🐋 How to buy EDX ?
 
-The EHX Token can initially be purchased on pancakeswap or on our website.
+The EDX  Token can initially be purchased on pancakeswap or on our website.
 
 Our Swap interface
 
