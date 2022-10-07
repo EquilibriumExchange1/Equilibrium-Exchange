@@ -6,7 +6,7 @@
 
 * [🐋 Trading with Equilibrium Dex](overview/trading-with-equilibrium-dex.md)
 * [🐋 Create a wallet](overview/create-a-wallet.md)
-* [🐋 How to buy EDX ?](overview/how-to-buy-edx.md)
+* [🐋 How to buy EMX  ?](overview/how-to-buy-emx.md)
 * [💻 Platforms](overview/platforms.md)
 
 ## Feauture
