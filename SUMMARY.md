@@ -22,7 +22,7 @@
 
 ## Tokenomics
 
-* [💎 Token EDX](tokenomics/token-edx.md)
+* [💎 Token EMX](tokenomics/token-emx.md)
 * [💎 Tokenomics](tokenomics/tokenomics.md)
 * [💎 Fees](tokenomics/fees.md)
 * [💎 Roadmap](tokenomics/roadmap.md)
